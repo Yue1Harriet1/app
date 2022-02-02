@@ -1,0 +1,4 @@
+pandas
+google_api_python_client
+protobuf
+git+https://github.com/Yue1Harriet1Huang/data_pipelines.git
